@@ -1,0 +1,1 @@
+left, right = 0, len(a)
